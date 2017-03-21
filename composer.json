@@ -1,0 +1,8 @@
+{
+    "name": "tikoflano/modhex",
+    "autoload": {
+        "psr-4": {
+            "Tikoflano": "src/"
+        }
+    }
+}
